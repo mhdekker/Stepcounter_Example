@@ -19,6 +19,8 @@ import org.w3c.dom.Text;
 //Made by Martijn Dekker for the course Creative Apps,
 //Based on: "Develop simple step counter" Retrieved from: https://www.youtube.com/watch?v=CNGMWnmldaU
 
+//Hi this is me coding very hard and doing a good job.
+
 /*You might need some tweaking for your app, since this app displays the value of the sensor
  since last reboot. To fix this you could save and subtract the value when booting up the app,
  so the stepcount will be zero*/
